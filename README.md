@@ -1,1 +1,0 @@
-# lopez-maria-pdi-1c-2026
