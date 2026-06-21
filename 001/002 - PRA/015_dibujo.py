@@ -6,7 +6,7 @@ def setup():
     py5.background(255)  # Fondo blanco
 
     # Ajusta la velocidad de generación
-    py5.frameRate(30)
+    py5.frame_rate(30)
 
 
 def draw():
