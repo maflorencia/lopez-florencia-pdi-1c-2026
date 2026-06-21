@@ -1,1 +1,1 @@
-#trabajo practico 006 
+# Trabajo practico sobre fotografía digital
